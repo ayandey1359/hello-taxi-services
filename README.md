@@ -19,7 +19,7 @@ Welcome to the Hello Taxi Services Data Analysis project repository! This reposi
    - Execute the SQL queries in `code-sql.sql` on your database to replicate the data extraction and analysis process.
 
  **Power BI Dashboard:**
-   - Open the `power_bi_dashboard.pbix` file in Power BI Desktop to explore the interactive dashboard. Connect it to your database if you want to visualize real data.
+   - Open the `dashboard.pbix` file in Power BI Desktop to explore the interactive dashboard. Connect it to your database if you want to visualize real data.
 
 ### Dependencies:
 - For the SQL project, a database environment is required.
