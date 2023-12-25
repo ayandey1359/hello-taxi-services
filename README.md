@@ -25,7 +25,8 @@ Welcome to the Hello Taxi Services Data Analysis project repository! This reposi
 - For the SQL project, a database environment is required.
 - Power BI Desktop is necessary to open and modify the dashboard file.
 - To read Calc project, a spreadsheet environment is required, LibreOffice or MS Office.
-
+- To read `documentation.odt`, a writer environment is required, LibreOffice or MS Office.
+  
 ### Additional Notes:
 
 - Replace dummy data with your own dataset for real-world application.
